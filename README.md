@@ -1,8 +1,8 @@
 # Hi, I'm Sujal Gupta
 
-Second-year Information Technology Engineering student from Mumbai, India.  
-I enjoy solving algorithmic problems and building clean, efficient Java code.  
-Currently focused on mastering Data Structures, Object-Oriented Programming, and JavaScript fundamentals.
+I’m a curious tech learner who enjoys building real-world web applications, exploring how systems work under the hood, and continuously improving my problem-solving skills.
+
+I like working across the stack — from clean UI and frontend logic to backend APIs and data flow — and I learn best by building projects and breaking things along the way.
 
 ---
 
@@ -27,12 +27,39 @@ Currently focused on mastering Data Structures, Object-Oriented Programming, and
 
 ## 📁 Featured Project
 
+### 🌧️ [JalSarathi – Personal Water Conservation Advisor](https://github.com/acchasujal/JalSarathi)
+
+A full-stack web application that helps Indian households estimate rooftop rainwater harvesting potential using city-level rainfall data and household parameters.
+
+What it does:
+
+Estimates annual harvestable rainwater
+
+Calculates cost, savings, and payback period
+
+Visualizes results using interactive charts
+
+Generates downloadable PDF reports
+
+Tech used:
+React, Tailwind CSS, Recharts, Node.js, Express, SQLite, Vercel, Render
+
 ### [Java Practice & LeetCode Problems](https://github.com/sujalcantcode/java-practice)
 A well-structured repository containing:
 - Core Java and OOP programs
 - LeetCode solutions with clean code
 
 ---
+
+## 🌱 Currently Exploring
+
+System design fundamentals
+
+Improving frontend performance & UX
+
+Backend API design and deployment
+
+Writing cleaner, more maintainable code
 
 ## 📬 Connect with Me
 
