@@ -44,10 +44,21 @@ Generates downloadable PDF reports
 Tech used:
 React, Tailwind CSS, Recharts, Node.js, Express, SQLite, Vercel, Render
 
-### [Java Practice & LeetCode Problems](https://github.com/sujalcantcode/java-practice)
-A well-structured repository containing:
-- Core Java and OOP programs
-- LeetCode solutions with clean code
+### 🤖 [MCP-Tools – Tool-Driven AI Workflows](https://github.com/acchasujal/MCP-Tools.git)
+
+A developer-focused project exploring how to build reliable AI systems using the Model Context Protocol (MCP) instead of prompt-only logic.
+
+Highlights
+
+MCP-compliant tool architecture
+
+Retry & model fallback handling for LLM failures
+
+Parallel tool execution
+
+Clean, extensible system design
+
+Tech: Node.js, JavaScript/TypeScript, MCP, Google Gemini models
 
 ---
 
