@@ -25,58 +25,40 @@ I like working across the stack — from clean UI and frontend logic to backend 
 
 ---
 
-## 📁 Featured Project
+### 📁 Featured Projects
 
-### 🌧️ [JalSarathi – Personal Water Conservation Advisor](https://github.com/acchasujal/JalSarathi)
+#### 🎙️ [Setu – Voice-First AI Education Bridge](https://github.com/acchasujal/Setu)
+A voice-driven AI assistant designed to bridge the digital divide in education. It allows users to interact with complex educational resources using natural language, making learning accessible to diverse demographics.
+* **Key Features:** Speech-to-Text integration, Context-aware AI responses, and low-latency interaction.
+* **Tech:** React, Node.js, Google Gemini, Web Speech API.
 
-A full-stack web application that helps Indian households estimate rooftop rainwater harvesting potential using city-level rainfall data and household parameters.
+#### 🌧️ [JalSarathi – Water Conservation Advisor](https://github.com/acchasujal/JalSarathi)
+A full-stack sustainability tool that helps Indian households estimate rooftop rainwater harvesting potential using city-level rainfall data.
+* **Key Features:** Annual harvest estimation, ROI/payback period calculation, and interactive data visualization.
+* **Tech:** React, Tailwind CSS, Recharts, SQLite.
 
-What it does:
-
-Estimates annual harvestable rainwater
-
-Calculates cost, savings, and payback period
-
-Visualizes results using interactive charts
-
-Generates downloadable PDF reports
-
-Tech used:
-React, Tailwind CSS, Recharts, Node.js, Express, SQLite, Vercel, Render
-
-### 🤖 [MCP-Tools – Tool-Driven AI Workflows](https://github.com/acchasujal/MCP-Tools.git)
-
-A developer-focused project exploring how to build reliable AI systems using the Model Context Protocol (MCP) instead of prompt-only logic.
-
-Highlights
-
-MCP-compliant tool architecture
-
-Retry & model fallback handling for LLM failures
-
-Parallel tool execution
-
-Clean, extensible system design
-
-Tech: Node.js, JavaScript/TypeScript, MCP, Google Gemini models
+#### 🤖 [MCP-Tools – Agentic AI Orchestration](https://github.com/acchasujal/MCP-Tools)
+An exploration into the **Model Context Protocol (MCP)**, building reliable AI systems that use structured tool-execution logic rather than simple prompt engineering.
+* **Key Features:** Multi-tool execution, error-handling fallbacks, and modular LLM integration.
+* **Tech:** Node.js, JavaScript, Google Gemini, MCP.
 
 ---
 
-## 🌱 Currently Exploring
+### 🌱 Current Focus
+* **LLM Orchestration:** Deep diving into AI agents and autonomous tool-use workflows.
+* **System Design:** Scaling full-stack applications with cloud-first architectures.
+* **Competitive Programming:** Solving complex algorithmic problems using C++.
 
-System design fundamentals
+---
 
-Improving frontend performance & UX
+### 📬 Connect with Me
 
-Backend API design and deployment
+<p align="left">
+<a href="https://www.linkedin.com/in/sujal-gupta-78a452326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+<a href="https://leetcode.com/acchasujal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28"></a>
+<a href="mailto:sujalgupta1376@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
+</p>
 
-Writing cleaner, more maintainable code
-
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-gupta-78a452326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/acchasujal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sujalgupta1376@gmail.com)
 
 
 ---
