@@ -3,8 +3,11 @@
 ## 👨‍💻 About Me
 
 Academic Focus: Information Technology undergraduate maintaining a 9.56 CGPA.
+
 Leadership: Currently serving as a Junior Technical Officer and Technical Officer for campus technical councils.
+
 Core Interest: Engineering software solutions for social impact, financial transparency, and healthcare accessibility.
+
 Specialization: Building with RAG architectures, AI Agents, and the MERN stack
 
 ---
@@ -40,15 +43,15 @@ A full-stack sustainability tool that helps Indian households estimate rooftop r
 * **Key Features:** Annual harvest estimation, ROI/payback period calculation, and interactive data visualization.
 * **Tech:** React, Tailwind CSS, Recharts, SQLite.
 
-#### 🔍 NutriScan | AI Nutrition Intelligence(https://github.com/acchasujal/nutriscan-ai)
-Tech: Computer Vision, MERN Stack, AI Analysis.
-Impact: Simplifies health tracking by analyzing food items via image recognition to provide instant nutritional insights.
-Highlights: Developed a seamless pipeline from image upload to real-time dietary data visualization.
+#### 🔍 [NutriScan | AI Nutrition Intelligence](https://github.com/acchasujal/nutriscan-ai)
+* **Tech:** Computer Vision, MERN Stack, AI Analysis.
+* **Impact:** Simplifies health tracking by analyzing food items via image recognition to provide instant nutritional insights.
+* **Highlights:** Developed a seamless pipeline from image upload to real-time dietary data visualization.
 
 #### 💰 [FundTrace AI | Financial Transparency Agent](https://github.com/shriza1991/FundTrace-AI/tree/version2)
-Tech: RAG, Node.js, Vector Databases.
-Impact: Automated agent designed to track and analyze fund allocations through intelligent document retrieval and auditing.
-Highlights: Implemented advanced RAG techniques to query complex financial records and provide concise summaries.
+* **Tech:** RAG, Node.js, Vector Databases.
+* **Impact:** Automated agent designed to track and analyze fund allocations through intelligent document retrieval and auditing.
+* **Highlights:** Implemented advanced RAG techniques to query complex financial records and provide concise summaries.
 
 ---
 
