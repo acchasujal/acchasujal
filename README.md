@@ -1,8 +1,11 @@
-# Hi, I'm Sujal Gupta
+# Hi, I'm Sujal
 
-I’m a curious tech learner who enjoys building real-world web applications, exploring how systems work under the hood, and continuously improving my problem-solving skills.
+## 👨‍💻 About Me
 
-I like working across the stack — from clean UI and frontend logic to backend APIs and data flow — and I learn best by building projects and breaking things along the way.
+Academic Focus: Information Technology undergraduate maintaining a 9.56 CGPA.
+Leadership: Currently serving as a Junior Technical Officer and Technical Officer for campus technical councils.
+Core Interest: Engineering software solutions for social impact, financial transparency, and healthcare accessibility.
+Specialization: Building with RAG architectures, AI Agents, and the MERN stack
 
 ---
 
@@ -37,10 +40,15 @@ A full-stack sustainability tool that helps Indian households estimate rooftop r
 * **Key Features:** Annual harvest estimation, ROI/payback period calculation, and interactive data visualization.
 * **Tech:** React, Tailwind CSS, Recharts, SQLite.
 
-#### 🤖 [MCP-Tools – Agentic AI Orchestration](https://github.com/acchasujal/MCP-Tools)
-An exploration into the **Model Context Protocol (MCP)**, building reliable AI systems that use structured tool-execution logic rather than simple prompt engineering.
-* **Key Features:** Multi-tool execution, error-handling fallbacks, and modular LLM integration.
-* **Tech:** Node.js, JavaScript, Google Gemini, MCP.
+#### 🔍 NutriScan | AI Nutrition Intelligence(https://github.com/acchasujal/nutriscan-ai)
+Tech: Computer Vision, MERN Stack, AI Analysis.
+Impact: Simplifies health tracking by analyzing food items via image recognition to provide instant nutritional insights.
+Highlights: Developed a seamless pipeline from image upload to real-time dietary data visualization.
+
+#### 💰 [FundTrace AI | Financial Transparency Agent](https://github.com/shriza1991/FundTrace-AI/tree/version2)
+Tech: RAG, Node.js, Vector Databases.
+Impact: Automated agent designed to track and analyze fund allocations through intelligent document retrieval and auditing.
+Highlights: Implemented advanced RAG techniques to query complex financial records and provide concise summaries.
 
 ---
 
