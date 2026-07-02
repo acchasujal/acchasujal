@@ -1,0 +1,41 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#79c0ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="12" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="218" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- accent bar -->
+  <rect x="0" y="0" width="6" height="220" rx="3" fill="url(#accent)"/>
+
+  <!-- name -->
+  <text x="60" y="95" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#f0f6fc">
+    Sujal Gupta
+  </text>
+
+  <!-- tagline -->
+  <text x="60" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#8b949e">
+    AI/ML Engineer &#183; Full-Stack Builder &#183; B.Tech IT, VESIT Mumbai
+  </text>
+
+  <!-- divider -->
+  <line x1="60" y1="152" x2="500" y2="152" stroke="#30363d" stroke-width="1"/>
+
+  <!-- focus line -->
+  <text x="60" y="178" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#58a6ff">
+    Agentic systems &#183; RAG &#183; Fraud &amp; anomaly detection &#183; Civic tech
+  </text>
+
+  <!-- monospace tag, right side -->
+  <text x="940" y="35" font-family="'Fira Code', 'Consolas', monospace" font-size="13" fill="#30363d" text-anchor="end">
+    &lt;/&gt;
+  </text>
+</svg>
