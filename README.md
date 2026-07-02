@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sujal Gupta — AI/ML Engineer, Full-Stack Builder" width="100%"/>
+<img src="banner.svg" alt="Sujal Gupta — AI/ML Engineer, Full-Stack Builder" width="100%"/>
 
 <br/>
 
