@@ -1,91 +1,134 @@
-# Hi, I'm Sujal
+<div align="center">
 
-## 👨‍💻 About Me
+<img src="assets/banner.svg" alt="Sujal Gupta — AI/ML Engineer, Full-Stack Builder" width="100%"/>
 
-Academic Focus: Information Technology undergraduate maintaining a 9.56 CGPA.
+<br/>
 
-Leadership: Currently serving as a Junior Technical Officer and Technical Officer for campus technical councils.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+agentic+AI+systems;Fraud+%26+anomaly+detection+%7C+XGBoost+%2B+SHAP;RAG+pipelines+%7C+multi-agent+orchestration;5%2B+hackathon+builds+shipped" alt="Typing SVG" />
 
-Core Interest: Engineering software solutions for social impact, financial transparency, and healthcare accessibility.
+<br/><br/>
 
-Specialization: Building with RAG architectures, AI Agents, and the MERN stack
+<a href="https://www.linkedin.com/in/sujal-gupta-78a452326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/acchasujal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="mailto:sujalgupta1376@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
----
+</div>
 
-## 🛠️ Skills
+<br/>
 
-### Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## About
 
-### Tools & Technologies:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+B.Tech Information Technology undergraduate at **VESIT, Mumbai** (9.56 CGPA), holding student leadership roles at **ISTE-VESIT** and **QuestIT**. I enjoy building production-ready AI systems that combine modern LLM workflows, explainability, and full-stack engineering.
 
-### IDEs:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+My interests include AI Agents, Distributed Systems, Explainable AI, and Developer Infrastructure.
 
----
+<br/>
 
-### 📁 Featured Projects
+## Skills
 
-#### 🎙️ [Setu – Voice-First AI Education Bridge](https://github.com/acchasujal/Setu)
-A voice-driven AI assistant designed to bridge the digital divide in education. It allows users to interact with complex educational resources using natural language, making learning accessible to diverse demographics.
-* **Key Features:** Speech-to-Text integration, Context-aware AI responses, and low-latency interaction.
-* **Tech:** React, Node.js, Google Gemini, Web Speech API.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,fastapi,tailwind,docker,postgres,mysql,mongodb,sqlite,neo4j,git,github,vscode,idea,figma,azure,gcp,vercel&theme=dark" alt="Skill icons"/>
+</div>
 
-#### 🌧️ [JalSarathi – Water Conservation Advisor](https://github.com/acchasujal/JalSarathi)
-A full-stack sustainability tool that helps Indian households estimate rooftop rainwater harvesting potential using city-level rainfall data.
-* **Key Features:** Annual harvest estimation, ROI/payback period calculation, and interactive data visualization.
-* **Tech:** React, Tailwind CSS, Recharts, SQLite.
+<br/>
 
-#### 🔍 [NutriScan | AI Nutrition Intelligence](https://github.com/acchasujal/nutriscan-ai)
-* **Tech:** Computer Vision, MERN Stack, AI Analysis.
-* **Impact:** Simplifies health tracking by analyzing food items via image recognition to provide instant nutritional insights.
-* **Highlights:** Developed a seamless pipeline from image upload to real-time dietary data visualization.
+## Dashboard
 
-#### 💰 [FundTrace AI | Financial Transparency Agent](https://github.com/shriza1991/FundTrace-AI/tree/version2)
-* **Tech:** RAG, Node.js, Vector Databases.
-* **Impact:** Automated agent designed to track and analyze fund allocations through intelligent document retrieval and auditing.
-* **Highlights:** Implemented advanced RAG techniques to query complex financial records and provide concise summaries.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=acchasujal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acchasujal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
 
-### 🌱 Current Focus
-* **LLM Orchestration:** Deep diving into AI agents and autonomous tool-use workflows.
-* **System Design:** Scaling full-stack applications with cloud-first architectures.
-* **Competitive Programming:** Solving complex algorithmic problems using C++.
+<br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=acchasujal&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc" alt="Activity Graph" width="97%"/>
 
-### 📬 Connect with Me
+</div>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sujal-gupta-78a452326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
-<a href="https://leetcode.com/acchasujal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28"></a>
-<a href="mailto:sujalgupta1376@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
-</p>
+<br/>
 
+## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏛️ Inside the Room
+**Explainable AI governance for discretionary decisions**, built on IBM Granite / watsonx.ai. Surfaces undefined terms in governing text (e.g. FIFA's "deliberately"), runs a 4-persona interpretive engine, and generates an exportable Discretion Disclosure Report.
 
+**Stack:** React 19, Vite, TypeScript, Vercel Serverless, IBM watsonx.ai (Granite)
+**Built for:** IBM SkillsBuild AI Builders Challenge, June 2026
 
-<!--
-**sujalcantcode/sujalcantcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Live Demo](https://inside-the-room.vercel.app) · [Repo](https://github.com/acchasujal/InsideTheRoom) · [Video](https://youtu.be/5Gf9zCwRHD8)
 
-Here are some ideas to get you started:
+</td>
+<td width="50%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ MuleShield AI
+Mule-account detection for banking fraud pipelines using **XGBoost with SHAP-based explainability**, built so flagged accounts come with a defensible, auditable reason rather than a black-box score.
+
+**Stack:** Python, XGBoost, SHAP
+**Built for:** PSBs Cybersecurity, Fraud & AI Hackathon 2026 (Bank of India × IIT Hyderabad)
+
+[Repo](https://github.com/acchasujal/MuleShield) · [Video](https://youtu.be/-e7fIvn19VU)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ CivicPulse
+Civic accountability platform for surfacing and tracking local governance issues, orchestrated through a **five-agent Gemini 2.0 Flash pipeline** — separate agents handle intake, verification, reasoning, and reporting rather than one monolithic prompt.
+
+**Built for:** VIBE2SHIP Hackathon (Coding Ninjas × Google for Developers), PS2 — Community Hero, June 2026
+
+[Live Demo](https://civicpulse-89026185279.us-central1.run.app/) · [Repo](https://github.com/acchasujal/CivicPulse) 
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 ConflictSense
+Multi-agent system for detecting contradictions across enterprise policy documents — the core idea being that siloed document review misses conflicts that only show up when clauses are compared *across* documents.
+
+**Built for:** Microsoft Agents League AISF 2026 Hackathon
+
+[Live Demo](https://conflictsense.vercel.app) · [Repo](https://github.com/acchasujal/conflictsense) · [Video](https://youtu.be/kXR18sk17KQ)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Setu
+Voice-first AI assistant bridging the digital-education divide — lets users query educational content in natural language instead of navigating text-heavy interfaces.
+
+**Stack:** React, Node.js, Google Gemini, Web Speech API
+
+[Live Demo](setu-pwa.vercel.app/) · [Repo](https://github.com/acchasujal/Setu)
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acchasujal/acchasujal/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acchasujal/acchasujal/output/snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/acchasujal/acchasujal/output/snake.svg" width="97%"/>
+</picture>
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Built with intent, not templates.</sub>
+</div>
