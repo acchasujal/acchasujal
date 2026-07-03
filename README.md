@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="Sujal Gupta — AI/ML Engineer, Full-Stack Builder" width="100%"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+agentic+AI+systems;Fraud+%26+anomaly+detection+%7C+XGBoost+%2B+SHAP;RAG+pipelines+%7C+multi-agent+orchestration;5%2B+hackathon+builds+shipped" alt="Typing SVG" />
 
 <br/><br/>
